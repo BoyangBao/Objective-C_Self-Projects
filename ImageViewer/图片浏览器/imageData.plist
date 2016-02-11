@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>biaoqingdi</string>
+		<key>desc</key>
+		<string>Everyone looks so noob!</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>wangba</string>
+		<key>desc</key>
+		<string>Why don&apos;t u choose 8th!!!</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>bingli</string>
+		<key>desc</key>
+		<string>OMG!</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>chiniupa</string>
+		<key>desc</key>
+		<string>LOLLLLLLL</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>danteng</string>
+		<key>desc</key>
+		<string>Can you change your name?</string>
+	</dict>
+</array>
+</plist>
